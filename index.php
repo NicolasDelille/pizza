@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Pizza</title>
 	<link rel="stylesheet" href="css/style.css">
+	<script type="text/javascript" src="js/js.js"></script>
 </head>
 <body>
 
